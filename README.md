@@ -24,6 +24,6 @@ Also, there’s a facebook event up at https://www.facebook.com/events/396740620
 10:00-12:00 - Kickoff coding
 12:00-12:30 - Prep for awards (final presentation showcase/experts share their solutions)
 12:30-1:00 - Awards
-1:00 - Dismissal```
+1:00 - Dismissal
 
 
