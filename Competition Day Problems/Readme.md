@@ -8,7 +8,8 @@
 
 
 **In order for solutions to be accepted they must meet these requirements: **
-1. Follow all requirements in the problem statement, including output to standard out, and input from the specified file name when applicable
+
+1.  Follow all requirements in the problem statement, including output to standard out, and input from the specified file name when applicable
 1.	All problem submissions must include an executable ( main() method) that runs.   
 1.	All submissions must compile and execute. 
 1.	Any modification to code after submission to a judge is considered a separate submission.
