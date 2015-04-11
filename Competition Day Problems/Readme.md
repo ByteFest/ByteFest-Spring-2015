@@ -36,7 +36,7 @@ Teams are ranked according to the most problems solved.  Teams who solve the sam
 **NO WINNER YET!**
 
 ###Special Thanks
-* To our judges: Erik Ralston (LiveTyles), Judy Thomas (PNNL), Tym O'Brien (CBC), Ryan Hohimer (CHAMPION Technology)
+* To our judges: Erik Ralston (LiveTiles), Judy Thomas (PNNL), Tym O'Brien (CBC), Ryan Hohimer (CHAMPION Technology)
 * Competition Staff: Tom Schultz (PNNL), Peter Neorr (CHAMPION Technology), and Ann Wright-Mockler (PNNL)
 * To our planning team members: Dan Best (PNNL), Russ Burtner (PNNL), and Nick Mileson (PNNL)
 
